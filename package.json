@@ -28,7 +28,7 @@
     "extensions": [
       "./extensions"
     ],
-    "image": "https://raw.githubusercontent.com/MrNeth/pi-fuzz/main/screenshot.png"
+    "image": "https://raw.githubusercontent.com/MrNeth/pi-fuzz/main/fuzz_working.png"
   },
   "peerDependencies": {
     "@earendil-works/pi-coding-agent": ">=0.84.0"
