@@ -6,11 +6,6 @@
   "keywords": ["pi-package", "pi-extension", "eye-strain", "screensaver"],
   "license": "MIT",
   "author": "MrNeth",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MrNeth/pi-fuzz.git"
-  },
-  "homepage": "https://github.com/MrNeth/pi-fuzz#readme",
   "files": ["extensions", "README.md", "LICENSE"],
   "pi": {
     "extensions": ["./extensions"]

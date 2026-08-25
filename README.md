@@ -16,7 +16,7 @@ The panel shows:
 ## Install
 
 ```sh
-pi install git:github.com/MrNeth/pi-fuzz
+pi install npm:pi-fuzz
 ```
 
 Then run `/fuzz` inside pi.

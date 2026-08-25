@@ -5,7 +5,7 @@
  * status panel (agent status, model, context %, time fuzzed, clock). The agent
  * keeps running underneath. Press any key to unfuzz.
  *
- * Auto-loaded from ~/.pi/agent/extensions/
+ * Install: pi install npm:pi-fuzz
  */
 
 import type { ExtensionAPI, ExtensionCommandContext } from "@earendil-works/pi-coding-agent";
