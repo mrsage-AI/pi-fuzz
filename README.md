@@ -2,6 +2,8 @@
 
 Fuzz out the screen during long [pi](https://pi.dev) sessions to rest your eyes.
 
+![fuzz screenshot](https://raw.githubusercontent.com/MrNeth/pi-fuzz/main/screenshot.png)
+
 `/fuzz` covers the whole terminal with a low-contrast noise field and a small
 status panel. The agent keeps running underneath. Press any key to unfuzz.
 

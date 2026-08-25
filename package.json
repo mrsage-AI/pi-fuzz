@@ -3,12 +3,32 @@
   "version": "0.1.0",
   "description": "Fuzz out the screen during long pi sessions to rest your eyes. Any key unfuzzes.",
   "type": "module",
-  "keywords": ["pi-package", "pi-extension", "eye-strain", "screensaver"],
+  "keywords": [
+    "pi-package",
+    "pi-extension",
+    "eye-strain",
+    "screensaver"
+  ],
   "license": "MIT",
   "author": "MrNeth",
-  "files": ["extensions", "README.md", "LICENSE"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrNeth/pi-fuzz.git"
+  },
+  "homepage": "https://github.com/MrNeth/pi-fuzz#readme",
+  "bugs": {
+    "url": "https://github.com/MrNeth/pi-fuzz/issues"
+  },
+  "files": [
+    "extensions",
+    "README.md",
+    "LICENSE"
+  ],
   "pi": {
-    "extensions": ["./extensions"]
+    "extensions": [
+      "./extensions"
+    ],
+    "image": "https://raw.githubusercontent.com/MrNeth/pi-fuzz/main/screenshot.png"
   },
   "peerDependencies": {
     "@earendil-works/pi-coding-agent": ">=0.84.0"
